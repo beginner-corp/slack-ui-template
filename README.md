@@ -1,6 +1,8 @@
 # Slack UI Template
 Quickly mock up your Slack interactions with attachments and message formatting in Sketch!
 
+<img src="https://cloud.githubusercontent.com/assets/200964/11796488/6bb9335c-a271-11e5-8ac6-c1f8c3980a80.png" width="600" height="600" />
+
 ## The basics
 This UI template is intended to cover all the basic Slack message formatting and, more importantly, attachments currently found in [Slack’s API documentation](https://api.slack.com/docs/attachments).
 
