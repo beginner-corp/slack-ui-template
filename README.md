@@ -1,5 +1,5 @@
 # Slack UI Template
-Quickly mock up your Slack interactions with message formatting, embedded videos, image unfurls, thumbnails, code blocks, attachments, interactive messages, and threads!
+Quickly mock up your Slack interactions with message formatting, embedded videos, image unfurls, thumbnails, code blocks, attachments, interactive messages, threads, and dialogs!
 
 <img width="588" alt="slack ui template" src="https://cloud.githubusercontent.com/assets/200964/24973100/6a372cbc-1f72-11e7-8a4e-4a3c387acab4.png">
 
